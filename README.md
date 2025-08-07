@@ -7,50 +7,36 @@ Code and data for the manuscript
 
 ## Quick‑start
 
-### 1. Install Git LFS before cloning
+### 1. Install Git LFS
 
-Git Large File Storage is required to fetch large data files.
+Large‑file support is necessary to retrieve large data files stored with LFS.
 
 ```bash
-# Ubuntu / Debian
 sudo apt update && sudo apt install git-lfs
 
-# Or via conda
-conda install -c conda-forge git-lfs
-
-# Enable LFS for your user account
-git lfs install
+git lfs install   # one‑time setup
 ```
 
-### 2. Clone the repository
+### 2. Clone and set up the environment
 
 ```bash
 git clone https://github.com/brain-machine-intelligence/TAG.git
 cd TAG
-```
 
-### 3. Create the Conda environment
-
-```bash
 conda env create -f environment.yaml
 conda activate tag
 ```
 
 ---
 
-## Usage
+## Data
 
-Run the end‑to‑end pipeline:
-
-```bash
-python main.py
-```
+The **`data/`** directory contains data required to reproduce the figures in the manuscript.
+The script **`main.py`** documents the pipeline for generating the data.
 
 ---
 
-## Reproducing figures
+## Figures
 
-Each figure has a companion notebook.
-Open the notebook you’re interested in and **Run All** after the main pipeline completes.
+Each figure can be reproduced by executing its corresponding Jupyter notebook (e.g., `fig1.ipynb`, `fig2.ipynb`).
 
----

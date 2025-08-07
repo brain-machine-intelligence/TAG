@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/data/Projects/TAG/tests/exploration.py", line 139, in process_exploration
+    gw_list, corr_list = simulate_exploration(ratio_index, index, expl_strategy_index)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/Projects/TAG/tests/exploration.py", line 38, in simulate_exploration
+    target_diffusionmap = tag_target.return_skeleton_diffusionmap()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/Projects/TAG/modules/model.py", line 98, in return_skeleton_diffusionmap
+    self.skeletonize_map()
+  File "/data/Projects/TAG/modules/model.py", line 293, in skeletonize_map
+    simplified_G, unskeletonized_edges_dict, unskeletonized_nodes_dict = (
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 3)

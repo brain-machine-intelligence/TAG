@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="(1, 8)" />
+    <node id="(2, 3)" />
+    <node id="(2, 8)" />
+    <node id="(4, 3)" />
+    <node id="(4, 0)" />
+    <node id="(5, 7)" />
+    <node id="(5, 3)" />
+    <node id="(6, 1)" />
+    <node id="(6, 3)" />
+    <node id="(7, 0)" />
+    <node id="(8, 2)" />
+    <node id="(9, 3)" />
+    <edge source="(1, 8)" target="(2, 8)" id="0">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="(2, 3)" target="(4, 0)" id="0">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="(2, 3)" target="(4, 3)" id="0">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="(2, 3)" target="(2, 8)" id="0">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="(2, 8)" target="(5, 7)" id="0">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="(4, 3)" target="(5, 7)" id="0">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="(4, 3)" target="(5, 3)" id="0">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="(5, 7)" target="(6, 3)" id="0">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="(5, 3)" target="(6, 1)" id="0">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="(5, 3)" target="(6, 3)" id="0">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="(6, 3)" target="(8, 2)" id="0">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="(7, 0)" target="(8, 2)" id="0">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="(8, 2)" target="(9, 3)" id="0">
+      <data key="d0">4</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="(1, 5)" />
+    <node id="(1, 8)" />
+    <node id="(2, 1)" />
+    <node id="(2, 2)" />
+    <node id="(3, 7)" />
+    <node id="(3, 9)" />
+    <node id="(4, 5)" />
+    <node id="(4, 7)" />
+    <node id="(5, 2)" />
+    <node id="(5, 5)" />
+    <node id="(6, 0)" />
+    <node id="(7, 5)" />
+    <node id="(7, 4)" />
+    <node id="(8, 9)" />
+    <node id="(9, 6)" />
+    <edge source="(1, 5)" target="(2, 1)" id="0">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="(1, 8)" target="(3, 7)" id="0">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="(2, 1)" target="(5, 2)" id="0">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="(2, 1)" target="(2, 2)" id="0">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="(3, 7)" target="(4, 5)" id="0">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="(3, 7)" target="(4, 7)" id="0">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="(3, 9)" target="(4, 7)" id="0">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="(4, 5)" target="(5, 2)" id="0">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="(4, 5)" target="(5, 5)" id="0">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="(4, 7)" target="(5, 5)" id="0">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="(5, 2)" target="(6, 0)" id="0">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="(5, 2)" target="(9, 6)" id="0">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="(5, 5)" target="(7, 5)" id="0">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="(7, 5)" target="(7, 4)" id="0">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="(7, 5)" target="(8, 9)" id="0">
+      <data key="d0">10</data>
+    </edge>
+  </graph>
+</graphml>

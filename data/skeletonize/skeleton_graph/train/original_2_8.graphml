@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="(2, 13)" />
+    <node id="(2, 14)" />
+    <node id="(3, 12)" />
+    <node id="(2, 15)" />
+    <node id="(2, 16)" />
+    <node id="(2, 17)" />
+    <node id="(2, 18)" />
+    <node id="(2, 19)" />
+    <node id="(3, 19)" />
+    <node id="(2, 20)" />
+    <node id="(2, 21)" />
+    <node id="(2, 22)" />
+    <node id="(2, 23)" />
+    <node id="(2, 24)" />
+    <node id="(2, 25)" />
+    <node id="(3, 26)" />
+    <node id="(3, 11)" />
+    <node id="(4, 10)" />
+    <node id="(4, 19)" />
+    <node id="(4, 26)" />
+    <node id="(5, 9)" />
+    <node id="(5, 19)" />
+    <node id="(5, 26)" />
+    <node id="(6, 8)" />
+    <node id="(6, 19)" />
+    <node id="(6, 26)" />
+    <node id="(7, 7)" />
+    <node id="(7, 19)" />
+    <node id="(7, 26)" />
+    <node id="(7, 6)" />
+    <node id="(8, 5)" />
+    <node id="(8, 8)" />
+    <node id="(8, 19)" />
+    <node id="(8, 26)" />
+    <node id="(9, 5)" />
+    <node id="(9, 9)" />
+    <node id="(9, 19)" />
+    <node id="(9, 26)" />
+    <node id="(10, 5)" />
+    <node id="(10, 10)" />
+    <node id="(10, 19)" />
+    <node id="(10, 26)" />
+    <node id="(10, 3)" />
+    <node id="(10, 4)" />
+    <node id="(11, 5)" />
+    <node id="(11, 11)" />
+    <node id="(11, 19)" />
+    <node id="(11, 26)" />
+    <node id="(12, 5)" />
+    <node id="(11, 12)" />
+    <node id="(11, 13)" />
+    <node id="(12, 14)" />
+    <node id="(12, 19)" />
+    <node id="(12, 25)" />
+    <node id="(13, 5)" />
+    <node id="(12, 15)" />
+    <node id="(13, 16)" />
+    <node id="(13, 19)" />
+    <node id="(13, 24)" />
+    <node id="(14, 5)" />
+    <node id="(14, 17)" />
+    <node id="(14, 19)" />
+    <node id="(14, 23)" />
+    <node id="(15, 5)" />
+    <node id="(14, 18)" />
+    <node id="(15, 16)" />
+    <node id="(15, 20)" />
+    <node id="(15, 22)" />
+    <node id="(16, 5)" />
+    <node id="(16, 15)" />
+    <node id="(15, 21)" />
+    <node id="(16, 22)" />
+    <node id="(17, 5)" />
+    <node id="(17, 14)" />
+    <node id="(17, 22)" />
+    <node id="(18, 5)" />
+    <node id="(18, 13)" />
+    <node id="(18, 22)" />
+    <node id="(19, 5)" />
+    <node id="(19, 12)" />
+    <node id="(19, 22)" />
+    <node id="(20, 5)" />
+    <node id="(19, 10)" />
+    <node id="(19, 11)" />
+    <node id="(20, 9)" />
+    <node id="(20, 22)" />
+    <node id="(20, 3)" />
+    <node id="(20, 4)" />
+    <node id="(21, 2)" />
+    <node id="(21, 6)" />
+    <node id="(21, 8)" />
+    <node id="(21, 22)" />
+    <node id="(21, 7)" />
+    <node id="(22, 7)" />
+    <node id="(22, 21)" />
+    <node id="(23, 7)" />
+    <node id="(23, 20)" />
+    <node id="(24, 7)" />
+    <node id="(24, 19)" />
+    <node id="(25, 7)" />
+    <node id="(25, 18)" />
+    <node id="(25, 6)" />
+    <node id="(26, 5)" />
+    <node id="(26, 8)" />
+    <node id="(26, 17)" />
+    <node id="(27, 4)" />
+    <node id="(26, 9)" />
+    <node id="(26, 10)" />
+    <node id="(26, 11)" />
+    <node id="(26, 12)" />
+    <node id="(26, 13)" />
+    <node id="(26, 14)" />
+    <node id="(26, 15)" />
+    <node id="(26, 16)" />
+    <node id="(28, 3)" />
+    <node id="(28, 1)" />
+    <node id="(28, 2)" />
+    <edge source="(2, 13)" target="(2, 14)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 13)" target="(3, 12)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 14)" target="(2, 15)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(3, 12)" target="(3, 11)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 15)" target="(2, 16)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 16)" target="(2, 17)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 17)" target="(2, 18)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 18)" target="(2, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 19)" target="(3, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 19)" target="(2, 20)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(3, 19)" target="(4, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 20)" target="(2, 21)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 21)" target="(2, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 22)" target="(2, 23)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 23)" target="(2, 24)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 24)" target="(2, 25)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(2, 25)" target="(3, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(3, 26)" target="(4, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(3, 11)" target="(4, 10)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(4, 10)" target="(5, 9)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(4, 19)" target="(5, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(4, 26)" target="(5, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(5, 9)" target="(6, 8)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(5, 19)" target="(6, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(5, 26)" target="(6, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(6, 8)" target="(7, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(6, 19)" target="(7, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(6, 26)" target="(7, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(7, 7)" target="(7, 6)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(7, 7)" target="(8, 8)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(7, 19)" target="(8, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(7, 26)" target="(8, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(7, 6)" target="(8, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(8, 5)" target="(9, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(8, 8)" target="(9, 9)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(8, 19)" target="(9, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(8, 26)" target="(9, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(9, 5)" target="(10, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(9, 9)" target="(10, 10)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(9, 19)" target="(10, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(9, 26)" target="(10, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 5)" target="(10, 4)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 5)" target="(11, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 10)" target="(11, 11)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 19)" target="(11, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 26)" target="(11, 26)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(10, 3)" target="(10, 4)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 5)" target="(12, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 11)" target="(11, 12)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 19)" target="(12, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 26)" target="(12, 25)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(12, 5)" target="(13, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 12)" target="(11, 13)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(11, 13)" target="(12, 14)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(12, 14)" target="(12, 15)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(12, 19)" target="(13, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(12, 25)" target="(13, 24)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(13, 5)" target="(14, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(12, 15)" target="(13, 16)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(13, 16)" target="(14, 17)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(13, 19)" target="(14, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(13, 24)" target="(14, 23)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 5)" target="(15, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 17)" target="(14, 18)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 17)" target="(15, 16)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 19)" target="(14, 18)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 19)" target="(15, 20)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(14, 23)" target="(15, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(15, 5)" target="(16, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(15, 16)" target="(16, 15)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(15, 20)" target="(15, 21)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(15, 22)" target="(15, 21)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(15, 22)" target="(16, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(16, 5)" target="(17, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(16, 15)" target="(17, 14)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(16, 22)" target="(17, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(17, 5)" target="(18, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(17, 14)" target="(18, 13)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(17, 22)" target="(18, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(18, 5)" target="(19, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(18, 13)" target="(19, 12)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(18, 22)" target="(19, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(19, 5)" target="(20, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(19, 12)" target="(19, 11)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(19, 22)" target="(20, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 5)" target="(20, 4)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 5)" target="(21, 6)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(19, 10)" target="(19, 11)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(19, 10)" target="(20, 9)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 9)" target="(21, 8)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 22)" target="(21, 22)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 3)" target="(20, 4)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(20, 3)" target="(21, 2)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(21, 6)" target="(21, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(21, 8)" target="(21, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(21, 22)" target="(22, 21)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(21, 7)" target="(22, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(22, 7)" target="(23, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(22, 21)" target="(23, 20)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(23, 7)" target="(24, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(23, 20)" target="(24, 19)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(24, 7)" target="(25, 7)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(24, 19)" target="(25, 18)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(25, 7)" target="(25, 6)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(25, 7)" target="(26, 8)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(25, 18)" target="(26, 17)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(25, 6)" target="(26, 5)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 5)" target="(27, 4)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 8)" target="(26, 9)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 17)" target="(26, 16)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(27, 4)" target="(28, 3)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 9)" target="(26, 10)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 10)" target="(26, 11)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 11)" target="(26, 12)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 12)" target="(26, 13)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 13)" target="(26, 14)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 14)" target="(26, 15)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(26, 15)" target="(26, 16)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(28, 3)" target="(28, 2)" id="0">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="(28, 1)" target="(28, 2)" id="0">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
